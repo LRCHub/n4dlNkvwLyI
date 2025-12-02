@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "愛なView",
+  "base_artist": "シャイニーカラーズ",
+  "createdAt": "2025-12-02T19:38:46.287443Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛なView",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/pl_01_愛なView_シャイニーカラーズ.txt"
+    }
+  ]
+}
